@@ -4,7 +4,7 @@ local prefix = "/"
 local bending = false
 local mods = {
     [623017592] = true, -- FROSTED
-    [428628880] = true -- RIDE
+    [428628880] = true, -- RIDE
     [1912891872] = true -- test
 }
 
